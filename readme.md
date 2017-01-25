@@ -1,4 +1,4 @@
-# GitHub Use Tutorial
+# Using GitHub
 Prepared by Brian Geyer
 
 Please see the ["wiki" section](https://github.com/leadr-msu/github-use-tutorial/wiki) of this repository.
