@@ -1,5 +1,0 @@
-To make changes to your cloned repo before sending them to the original online, install a text editing program. As mentioned in class, I recommend either [Notepad++](https://notepad-plus-plus.org/download/) for PC or [TextWrangler](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12) for Mac.
-
-To open any single file (including the .html files we're editing for this project), simply right-click for PC, or control-click for Mac, on the file and choose the text editor from the list (at least, Notepad++ adds itself to this list), or choose "Open With" and then pick the text editor.
-
-If you want to view changes as you make them to .html files, simply double-click to open and it should open in your internet browser. As you make changes in the text editor to the file, you can refresh the window or tab of the file in the browser to see the changes immediately.
