@@ -1,6 +1,6 @@
 Link to Github Use Tutorial:
 
-https://github.com/leadr-msu/github-use-tutorial/wiki
+[https://github.com/leadr-msu/github-use-tutorial/wiki](https://github.com/leadr-msu/github-use-tutorial/wiki)
 
 
 
