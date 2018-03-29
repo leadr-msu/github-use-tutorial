@@ -6,5 +6,4 @@ Written by Brian Geyer and maintained by [LEADR Staff](http://leadr.msu.edu/). T
 
 Please see the ["wiki" section](https://github.com/leadr-msu/github-use-tutorial/wiki) of this repository to view the tutorial.
 
------
-### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+Find all of our tutorials at [http://leadr-msu.github.io/](http://leadr-msu.github.io/). 
