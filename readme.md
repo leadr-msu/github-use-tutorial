@@ -2,7 +2,7 @@
 
 [https://github.com/leadr-msu/github-use-tutorial/wiki](https://github.com/leadr-msu/github-use-tutorial/wiki)
 
-Written by Brian Samuel Geyer and maintained by [LEADR Staff](http://leadr.msu.edu/). Here are the [usage rights](https://github.com/leadr-msu/github-use-tutorial/blob/master/License.MD) associated with this tutorial.
+Written by [Brian Samuel Geyer](https://github.com/geyerbri) and maintained by [LEADR Staff](http://leadr.msu.edu/). Here are the [usage rights](https://github.com/leadr-msu/github-use-tutorial/blob/master/License.MD) associated with this tutorial.
 
 Please see the ["wiki" section](https://github.com/leadr-msu/github-use-tutorial/wiki) of this repository to view the tutorial.
 
